@@ -29,6 +29,8 @@
 #end
 
 def retrieve_element_from_index(array, index_number)
+  array.each_with_index do|array element|
+  puts(array[2])
   
 end
 
