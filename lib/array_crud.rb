@@ -29,22 +29,22 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
-#  array = ["wow", "I", "am", "really", "learning", "arrays!"]
- # array.each_with_index do|array element|
- # puts(array[2])
+  array = ["wow", "I", "am", "really", "learning", "arrays!"]
+  array.each_with_index do|array element|
+  puts(array[2])
   
-#end
+end
 
-#def retrieve_first_element_from_array(array)
- # array = ["wow", "I", "am", "really", "learning", "arrays!"]
- # array.each_with_index do|array element|
- # puts(array[0])
+def retrieve_first_element_from_array(array)
+  array = ["wow", "I", "am", "really", "learning", "arrays!"]
+  array.each_with_index do|array element|
+  puts(array[0])
   
-#end
+end
 
-#def retrieve_last_element_from_array(array)
- # array = ["wow", "I", "am", "really", "learning", "arrays!"]
- # array.each_with_index do|array element|
- # puts(array[-1])
+def retrieve_last_element_from_array(array)
+  array = ["wow", "I", "am", "really", "learning", "arrays!"]
+  array.each_with_index do|array element|
+  puts(array[-1])
   
-#end
+end
