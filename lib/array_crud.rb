@@ -1,34 +1,34 @@
-#def create_an_empty_array
+def create_an_empty_array
   []
-#end
+end
 
-#def create_an_array
- # Array = []
-#end
+def create_an_array
+  Array = []
+end
 
-#def add_element_to_end_of_array(array, element)
- # array.each_with_index do|array element|
-  #array.Push(element)
+def add_element_to_end_of_array(array, element)
+  array.each_with_index do|array element|
+  array.Push(element)
   
-#end
+end
 
-#def add_element_to_start_of_array(array, element)
-  #array.each_with_index do|array element|
-  #array.Unshift(element)
-#  
-#end
+def add_element_to_start_of_array(array, element)
+  array.each_with_index do|array element|
+  array.Unshift(element)
+ 
+end
 
-#def remove_element_from_end_of_array(array)
- # array.each_with_index do|element|.Pop
+def remove_element_from_end_of_array(array)
+  array.each_with_index do|element|.Pop
   
-#end
+end
 
-#def remove_element_from_start_of_array(array)
-  #array.each_with_index do(element).Shift
-#  
-#end
+def remove_element_from_start_of_array(array)
+  array.each_with_index do(element).Shift
+  
+end
 
-#def retrieve_element_from_index(array, index_number)
+def retrieve_element_from_index(array, index_number)
 #  array = ["wow", "I", "am", "really", "learning", "arrays!"]
  # array.each_with_index do|array element|
  # puts(array[2])
