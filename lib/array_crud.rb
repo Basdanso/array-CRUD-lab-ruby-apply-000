@@ -43,7 +43,8 @@
 #end
 
 def retrieve_last_element_from_array(array)
-  
+  array = ["wow", "I", "am", "really", "learning", "arrays!"]
+  puts(array[-1])
   
   
 end
