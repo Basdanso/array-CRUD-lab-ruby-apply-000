@@ -6,16 +6,16 @@
  # Array = []
 #end
 
-#def add_element_to_end_of_array(array, element)
-  #array.each_with_index do|array element|.push
-  
-#end
-
-def add_element_to_start_of_array(array, element)
-  array.each_with_index do|array element|
-  array.Unshift(element)
+def add_element_to_end_of_array(array, element)
+  array.each_with_index do|array element|.Push
   
 end
+
+#def add_element_to_start_of_array(array, element)
+  array.each_with_index do|array element|
+  array.Unshift(element)
+#  
+#end
 
 #def remove_element_from_end_of_array(array)
   
