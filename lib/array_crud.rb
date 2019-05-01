@@ -19,7 +19,7 @@
 #end
 
 def remove_element_from_end_of_array(array)
-  array.pop(element)
+  array.each_with_index do|element|.Pop
   
 end
 
