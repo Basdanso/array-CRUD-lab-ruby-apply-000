@@ -35,13 +35,13 @@
   
 #end
 
-def retrieve_first_element_from_array(array)
-  array = ["wow", "I", "am", "really", "learning", "arrays!"]
-  array.each_with_index do|array element|
-  puts(array[10])
-  
-end
-
-#def retrieve_last_element_from_array(array)
+#def retrieve_first_element_from_array(array)
+ # array = ["wow", "I", "am", "really", "learning", "arrays!"]
+ # array.each_with_index do|array element|
+ # puts(array[0])
   
 #end
+
+def retrieve_last_element_from_array(array)
+  
+end
