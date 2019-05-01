@@ -24,7 +24,7 @@
 #end
 
 def remove_element_from_start_of_array(array)
-  array.each_with_index.Shift(element)
+  array.each_with_index.do Shift(element)
   
 end
 
