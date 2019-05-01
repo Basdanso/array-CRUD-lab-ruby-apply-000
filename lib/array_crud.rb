@@ -29,7 +29,7 @@
 #end
 
 def retrieve_element_from_index(array, index_number)
-  
+  array = ["wow", "I", "am", "really", "learning", "arrays!"]
   array.each_with_index do|array element|
   puts(array[2])
   
