@@ -18,10 +18,10 @@
 #  
 #end
 
-def remove_element_from_end_of_array(array)
-  array.each_with_index do|element|.Pop
+#def remove_element_from_end_of_array(array)
+ # array.each_with_index do|element|.Pop
   
-end
+#end
 
 #def remove_element_from_start_of_array(array)
   
